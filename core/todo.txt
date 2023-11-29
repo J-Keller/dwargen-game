@@ -1,0 +1,25 @@
+Game - Prototype:
+    -TODO: Think about correct use of keyDown, keyUp and keyTyped
+    -TODO: Make Menus
+    -TODO: Make things more general (e.g. arrow hits not just on that one orc, instead on every entity)
+
+Game - Optimizations
+    -TODO: Optimize controls!!!
+    -TODO: Collision detection fine tuning
+    -TODO: Camera and player movement need to work together
+    -TODO: Map bounds need to be detected, so camera and player can't go out of bounds
+    -TODO: Entity coordinates need to be determined by position on map, and not by screen coordinates
+
+Game - Bugs:
+    -TODO: Items move slightly when player moves
+    -TODO: When enemy dies, player can't shoot arrows until he sees him again
+
+Game - Mechanics:
+
+Game - Platform and Controller support
+    -TODO: Add Controller support
+    -TODO: Add Android support
+
+Game - Content:
+
+Assets:
